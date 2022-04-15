@@ -1,0 +1,116 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiVC7zAToXXUiB-SpaXoqbYy_J61nwVlnmFeC82E5WeJLN-jPp-BpQPkDu&s=10" group-title="CANAIS | INTERNACIONAIS",SIC K HD
+
+http://213.13.23.132/shls/LIVE%24SIC_K.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499764417850370).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="CANAIS | INTERNACIONAIS",GLOBO PORTUGAL HD
+
+http://213.13.23.132/shls/LIVE%24Globo.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499765979281590).ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgY1Ed9NqEAYQ-rp_IxQZYWaTdHD3HBJPlSSxE7Uf5BFa9QpZexas9iB8&s=10" group-title="CANAIS | INTERNACIONAIS",MCM POP HD
+
+http://213.13.23.132/shls/LIVE%24MCM_POP.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499767492342320).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="CANAIS | INTERNACIONAIS",PASIONES HD
+
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3078
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="CANAIS | INTERNACIONAIS",TLNOVELAS HD
+
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/82450
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="CANAIS | INTERNACIONAIS",MTV 00's HD
+
+http://213.13.23.132/shls/LIVE%24VH1.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499781312871300).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="CANAIS | INTERNACIONAIS",NICKELODEON PORTUGAL HD
+
+http://213.13.23.132/shls/LIVE%24Nickelodeon.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499784140997350).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="CANAIS | INTERNACIONAIS",SIC PORTUGAL HD
+
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS | INTERNACIONAIS",CARTOON NETWORK PORTUGAL HD
+
+http://213.13.23.132/shls/LIVE%24Cartoon_Network.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499786555872740).ts
+
+#EXTINF:-1 tvg-logo="https://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="CANAIS | INTERNACIONAIS",DOG TV PT HD
+
+http://213.13.23.132/shls/LIVE%24DOGTV_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)/Segment(16499787998136340).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="CANAIS | INTERNACIONAIS",AXN BLACK PT HD
+
+http://213.13.23.132/shls/LIVE%24AXN_Black.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CANAIS | INTERNACIONAIS",AXN WHITE PT HD
+
+http://213.13.23.132/shls/LIVE%24AXN_White.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499790917186800).ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv3imobSejLhCRweCzbVPJr9--dKI2rqBqGan92bWN8b8O54gvZC07ZPBx&s=10" group-title="CANAIS | INTERNACIONAIS",DISCOVERY PT HD
+
+http://213.13.23.132/shls/LIVE%24Discovery_Channel.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499791821194600).ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" group-title="CANAIS | INTERNACIONAIS",DISNEY JUNIOR PT HD
+
+http://213.13.23.132/shls/LIVE%24Disney_Junior.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499793174667400).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="CANAIS | INTERNACIONAIS",MCM TOP PT HD
+
+http://213.13.23.132/shls/LIVE%24MCM_TOP.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499794491858380).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1200px-RTP1_-_Logo_2016.svg.png" group-title="CANAIS | INTERNACIONAIS",RTP1 HD
+
+http://213.13.23.132/shls/LIVE%24RTP1_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)/Segment(16499798287821800).ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvw335dwlzzsWQ_3Sj_dnBzy1_jcr5muW2Lky0hMpD2NtMfzW2jMhZw&s=10" group-title="CANAIS | INTERNACIONAIS",RTP2 HD
+
+http://213.13.23.132/shls/LIVE%24RTP_2_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)/Segment(16499800661277330).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png" group-title="CANAIS | INTERNACIONAIS",RTP3 HD
+
+http://213.13.23.132/shls/LIVE%24RTP_3_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)/Segment(16499801703992900).ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGC8QBKFaAFx5nh53AZroB0Zvl5vr60fK3mA_QbaydmqXIINhpVUyFFQ&s=10" group-title="CANAIS | INTERNACIONAIS",BABY TV PT HD
+
+http://213.13.23.132/shls/LIVE%24Baby_TV.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499802845952200).ts
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="CANAIS | INTERNACIONAIS",NETFLIX 001 HD
+
+http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137491?token=HRpcWENeFw0WAVUHBwcEUgkGAQdWDAtdUgBfBgcAVQEHCQwPAFQCVgIWTUcSRUcDUFhoCgcbCFUEBw0LBBtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQ0LXQ8ADAMAG0dCD1wWAxIEAgIADENJQ1RNElRHWQIPZlYBQVlaVxcNC0cKVBgbX1hqU1FZAAsFEw9EARcbQQpKQkYNXkxeWRtHUA9MRlhEUxcNFgVUUFYTGURSWkINF0tLRg0Se2AXG0dXHkxRV0NfWlkWDkMREhMZRFhGaBEGSkYWUlFUV0cVXxBXGhgbXVdNaFdbDwsEUkEPXltEQVkbA1EHEhUQWFgLWxJXRmZAX1EVDhZTUlMADURM
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="CANAIS | INTERNACIONAIS",NETFLIX 002 HD
+
+http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137491?token=HRpcWENeFw0WVgBdUVdTAgEDUgIFCQABAgkNVwxWAQsHCANYB1MHVlUWTUcSRUcDUFhoCgcbCFUEBw0LBBtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQ0LXQ8ADwcNG0dCD1wWAxIEAgIADENJQ1RNElRHWQIPZlYBQVlaVxcNC0cKVBgbX1hqU1FZAAsFEw9EARcbQQpKQkYNXkxeWRtHUA9MRlhEUxcNFgVSUlITGURSWkINF0tLRg0Se2AXG0dXHkxRV0NfWlkWDkMREhMZRFhGaBEGSkYWUlFUV0cVXxBXGhgbXVdNaFdbDwsEUkEPXltEQVkbA1EHEhUQWFgLWxJXRmZAX1EVDhZTUlMADURM
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6zp4gHoz3zc8Qpag4jKgLSZKr0tAMETZAg&usqp=CAU" group-title="CANAIS | INTERNACIONAIS",CNN PORTUGAL HD
+
+http://213.13.23.132/shls/LIVE%24CNN_Portugal_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499808337923210).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS | INTERNACIONAIS",RECORD NEWS PT HD
+
+http://213.13.23.132/shls/LIVE%24Record_News.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499810026242660).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="CANAIS | INTERNACIONAIS",TVI PT HD
+
+http://213.13.23.132/shls/LIVE%24TVI_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)/Segment(16499811734603770).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CANAIS | INTERNACIONAIS",AXN PT HD
+
+http://213.13.23.132/shls/LIVE%24AXN_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)/Segment(16499812888929940).ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9SxJ2MrzyC9pNaTAscpNNQhKUeVSUIE67daENbJwDkzcVs3940dEzEvz&s=10" group-title="CANAIS | INTERNACIONAIS",EURONEWS PT HD
+
+http://213.13.23.132/shls/LIVE%24Euronews.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)/Segment(16499814683808550).ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="CANAIS | INTERNACIONAIS",TELEMUNDO HD
+
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/71826
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="CANAIS | INTERNACIONAIS",MTV LIVE HD
+
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267310
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/5169px-Univision_tlnovelas_%282019%29.svg.png" group-title="CANAIS | INTERNACIONAIS",UNIVISION TELENOVELAS HD 
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE9pjAO-yFOKaVrPmHBAntE
